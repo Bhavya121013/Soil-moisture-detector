@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <circle cx="50" cy="50" r="48" fill="#2D4A3E"/>
+  <!-- Pot -->
+  <path d="M30 65 L36 84 C36.5 86 38.5 87 40.5 87 L59.5 87 C61.5 87 63.5 86 64 84 L70 65 Z" fill="#C67D5A"/>
+  <rect x="27" y="59" width="46" height="7" rx="3.5" fill="#E29578"/>
+  <!-- Soil -->
+  <ellipse cx="50" cy="62" rx="19" ry="3" fill="#6B5344"/>
+  <!-- Stem -->
+  <path d="M50 62 Q50 42 46 32" stroke="#A8C5AB" stroke-width="4.5" stroke-linecap="round" fill="none"/>
+  <!-- Left Leaf -->
+  <path d="M48 42 C30 40 26 26 36 22 C46 22 47 38 48 42 Z" fill="#7E9F83"/>
+  <!-- Right Leaf -->
+  <path d="M47 34 C64 30 68 18 58 14 C48 14 47 30 47 34 Z" fill="#A8C5AB"/>
+  <!-- Dew drop -->
+  <circle cx="36" cy="24" r="2.5" fill="#E8F4F8" opacity="0.9"/>
+</svg>
